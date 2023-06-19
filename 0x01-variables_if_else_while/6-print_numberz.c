@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
-* main - Prints numbers 0 to 9 from their given ascii codes 
+* main - Prints numbers 0 to 9 from their given ascii codes
 *
 * Return: int
 */
