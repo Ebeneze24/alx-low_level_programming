@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 /**
-	* main - execution starts here
-	* Return: int (0 == success, 1 == error)
+	* main - main execution code
+	* Return: int
 */
 int main(void)
 {
