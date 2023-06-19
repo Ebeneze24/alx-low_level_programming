@@ -3,7 +3,7 @@
 /**
 *	main - main entry to the program
 *
-* Return: int - 0 == success
+* Return: int
 */
 int main(void)
 {
